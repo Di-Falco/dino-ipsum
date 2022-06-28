@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background: radial-gradient(
+    circle at 0.7% 1%,
+    rgb(215, 248, 247) 0%,
+    rgb(102, 188, 239) 100.2%
+  );
+  background-repeat: repeat;
+}
+
+
+.header {
+  margin-top: 40px;
+}
